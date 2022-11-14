@@ -1,0 +1,96 @@
+#app {
+  max-width: 850px;
+  margin: 0 auto;
+}
+
+nav {
+  padding: 20px 0 20px 0;
+}
+
+
+.wrapper{
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+}
+/* .cart{
+  margin-top: 150px;
+} */
+/* .row{
+  position: absolute;
+width: 286px;
+height: 286px;
+left: 47px;
+top: 210px;
+
+background: rgba(217, 217, 217, 0.21);
+border-radius: 28.3569px;
+} */
+/* .text{
+  background: white;
+  padding: 1rem;
+  text-align: left;
+  float: left;
+  display: grid;
+  grid-template-columns: 100px ;
+  margin-right: auto;
+
+  grid-gap: 1.5rem
+} */
+.cardBox{
+  position: absolute;
+width: 286px;
+height: 286px;
+left: 47px;
+top: 210px;
+
+background: rgba(217, 217, 217, 0.21);
+border-radius: 28.3569px
+}
+
+.imgStyle{
+  position: absolute;
+width: 207.43px;
+height: 165.87px;
+left: 101px;
+top: 270px;
+background-color:  rgba(217, 217, 217, 0.21);
+}
+.col-md-6 p {
+  font-size: 10px;
+
+}
+.col-md-6 h1 {
+  font-size: 20px;
+
+}
+
+
+.btn {
+   background: #F28B11;
+   color: #FFFFFF;
+   box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.34);
+border-radius: 36.8914px;
+float: right;
+float: inline-end;
+margin: 10px 10px 10px 10px;
+padding: 10px 10px 10px 10px;
+}
+.addcart {
+  background: red;
+   color: #FFFFFF;
+   box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.34);
+border-radius: 36.8914px;
+padding: 20px;
+margin: 10px;
+
+}
+.onadd {
+  background:blue;
+   color: #FFFFFF;
+   box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.34);
+border-radius: 36.8914px;
+
+
+
+}
